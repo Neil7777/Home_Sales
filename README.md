@@ -17,7 +17,10 @@ The dataset home_sales_revised.csv contains information about home sales, includ
 ## Running the Analysis
 1. Clone the repository:
 
-git clone https://github.com/Neil7777/Home_Sales
+   
+  - git clone https://github.com/Neil7777/Home_Sales
+
+
 2. Open Home_Sales.ipynb in Jupyter Notebook.
 3. Execute the cells to run the analysis.
 ## Analysis Questions
